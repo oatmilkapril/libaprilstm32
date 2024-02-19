@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cstdint": "c",
+        "april_uart_logger.h": "c"
+    }
+}
